@@ -1,0 +1,8 @@
+uBridge version 0.9.18 running with Npcap version 1.71, based on libpcap version 1.10.2-PRE-GIT
+Hypervisor TCP control server started (IP 127.0.0.1 port 59440).
+UDP tunnel connecting from local port 10003 to IPv4 address 192.168.216.134 on port 20001
+Ethernet interface \Device\NPF_{76403832-77FE-47A2-A181-F4DC721D178E}
+Source NIO listener thread for ae6fee6d-c809-4857-800b-e0b4839f8c1c-1 has started
+Destination NIO listener thread for ae6fee6d-c809-4857-800b-e0b4839f8c1c-1 has started
+send: Message too long
+Destination NIO listener thread for ae6fee6d-c809-4857-800b-e0b4839f8c1c-1 has stopped because of an error: Message too long 
